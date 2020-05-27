@@ -40,7 +40,9 @@
           <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
         </div>
 
-        {{ content }}
+      <main id="content" class="main-content" role="main">
+      {{ content }}
+      <p> 
 
       </section>
 
