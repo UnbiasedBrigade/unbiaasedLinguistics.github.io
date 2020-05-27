@@ -8,7 +8,7 @@ has changed over time, and its relation to other kingdoms in the world of Scient
 <p>The Kingdom of Linguistics is divided into two states, Synchronic and Diachronic, each of which is divided into five regions: 
 <ul> <li> The mountains of syntactics,</li>
      <li> The plains of semantics, and</li>
-     <li> The metropolitan of phenomics, which is surrounded by</li>
+     <li> The metropolitans of phenomics, which are surrounded by</li>
      <li> The forest of phonetics.</li>
 </ul>
 </p>
