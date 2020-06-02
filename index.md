@@ -31,7 +31,7 @@ The people in different areas have different focuses, but overall, people in the
      </tr>
      <tr>
           <td> The Plains of Semantics </td>
-          <td> This is an area with more diverse thoughts, though most people focus on what words mean. </br> some also focus on grammar which flows together with meaning.</td>
+          <td> This is an area with more diverse thoughts, though most people focus on what words mean. <br/> some also focus on grammar which flows together with meaning.</td>
      </tr>
      <tr>
           <td> The Forest of Phonetics </td>
